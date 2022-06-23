@@ -1,0 +1,26 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasLaminM/accounts.git"
+  },
+  "author": "Lucas Lamin Mira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasLaminM/accounts/issues"
+  },
+  "homepage": "https://github.com/LucasLaminM/accounts#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "gitignore": "^0.7.0",
+    "inquirer": "^9.0.0"
+  }
+}
